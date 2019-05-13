@@ -1,0 +1,16 @@
+### ejemplo 1
+
+busco que ande en markdown
+___
+
+* el 1
+* el 2
+___
+
+### tabla
+
+| jyf | jhjhbkj |
+| --- |--------|
+| uih | uho |
+| uih | uho |
+| uih | uho |
